@@ -11,14 +11,14 @@
       "icon": "./assets/images/icon.png"
     },
     "android": {
+      "package": "com.hozify.partner",
+      "predictiveBackGestureEnabled": false,
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
-      "predictiveBackGestureEnabled": false,
-      "package": "com.hozify.partner",
       "permissions": [
         "android.permission.RECORD_AUDIO",
         "android.permission.ACCESS_COARSE_LOCATION",
@@ -73,9 +73,9 @@
         "root": "src/app"
       },
       "eas": {
-        "projectId": "62a06005-72e9-48fe-ba30-abc5aec58294"
+        "projectId": "23ae73a9-e5a5-4d84-9225-70bcec53f49d"
       }
     },
-    "owner": "kanha_meena04"
+    "owner": "kanha0415"
   }
 }
